@@ -1,2 +1,2 @@
 line1
-I will make a test for merge.
+I will made a test for merge.
